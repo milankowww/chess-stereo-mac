@@ -32,6 +32,8 @@ How to use:
 - start the 3d mode on your TV and use 3d glasses
 - stay within the view of your camera. Move the head to explore the scene from different angles.
 
+Screenshots are in the Screenshots/ subdirectory.
+
 Patches and comments are very welcome.
 
-(c) Milan Pikula 2010, freeware
+(c) Milan Pikula 2010
